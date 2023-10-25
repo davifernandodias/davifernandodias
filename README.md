@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+my+name+is+David+Dias.;I+am+a+computer+science+student!)](https://git.io/typing-svg)
 
 
-![Dias GitHub stats](https://github-readme-stats.vercel.app/api?username=davifernandodias&show_icons=true&theme=dracula)
 
 ### technology I'm learning.
 <div style="display: inline_block"><br/>
